@@ -1,0 +1,16 @@
+-I
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug
+-I
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/positioners
+-I
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/.qt/rcc/qmake_positioners.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/.qt/rcc/apppositioners_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/.qt/rcc/apppositioners_raw_res_0.qrc
+--module
+positioners

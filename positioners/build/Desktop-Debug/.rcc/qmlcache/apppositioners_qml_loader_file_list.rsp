@@ -1,0 +1,7 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/.qt/rcc/qmake_positioners.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/.qt/rcc/apppositioners_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/.qt/rcc/apppositioners_raw_res_0.qrc
+/qt/qml/positioners/Main.qml

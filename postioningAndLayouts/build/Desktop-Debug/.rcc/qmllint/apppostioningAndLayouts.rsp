@@ -1,0 +1,16 @@
+--bare
+-I
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug
+-I
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/postioningAndLayouts
+-I
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/rcc/qmake_postioningAndLayouts.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/rcc/apppostioningAndLayouts_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/rcc/apppostioningAndLayouts_raw_res_0.qrc
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/Main.qml

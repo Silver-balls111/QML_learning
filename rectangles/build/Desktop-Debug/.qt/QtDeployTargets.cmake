@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apprectangles_FILE /home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/apprectangles)
+set(__QT_DEPLOY_TARGET_apprectangles_TYPE EXECUTABLE)

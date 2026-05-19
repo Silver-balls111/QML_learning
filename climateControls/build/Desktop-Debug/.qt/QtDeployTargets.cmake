@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appclimateControls_FILE /home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/appclimateControls)
+set(__QT_DEPLOY_TARGET_appclimateControls_TYPE EXECUTABLE)

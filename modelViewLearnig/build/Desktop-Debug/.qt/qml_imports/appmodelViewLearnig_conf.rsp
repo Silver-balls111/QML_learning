@@ -1,0 +1,15 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/.qt/qml_imports/appmodelViewLearnig_conf.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/modelViewLearnig
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/.qt/rcc/qmake_modelViewLearnig.qrc
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/.qt/rcc/appmodelViewLearnig_raw_qml_0.qrc
+/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/.qt/rcc/appmodelViewLearnig_raw_res_0.qrc

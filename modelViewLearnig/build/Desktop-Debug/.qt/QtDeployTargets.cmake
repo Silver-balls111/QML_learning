@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appmodelViewLearnig_FILE /home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/appmodelViewLearnig)
+set(__QT_DEPLOY_TARGET_appmodelViewLearnig_TYPE EXECUTABLE)

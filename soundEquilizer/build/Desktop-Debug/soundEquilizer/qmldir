@@ -1,0 +1,8 @@
+module soundEquilizer
+typeinfo appsoundEquilizer.qmltypes
+prefer :/qt/qml/soundEquilizer/
+Main 254.0 Main.qml
+LedBar 254.0 LedBar.qml
+Led 254.0 Led.qml
+depends QtQuick
+

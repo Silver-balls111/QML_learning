@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/guitarPedal">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/guitarPedal/qmldir</file>
+  </qresource>
+</RCC>
+

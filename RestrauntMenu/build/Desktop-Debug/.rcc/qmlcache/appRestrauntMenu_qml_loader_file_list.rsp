@@ -1,0 +1,11 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/build/Desktop-Debug/.qt/rcc/qmake_RestrauntMenu.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/build/Desktop-Debug/.qt/rcc/appRestrauntMenu_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/build/Desktop-Debug/.qt/rcc/appRestrauntMenu_raw_res_0.qrc
+/qt/qml/RestrauntMenu/Main.qml
+/qt/qml/RestrauntMenu/Zone.qml
+/qt/qml/RestrauntMenu/RestroMenu.qml
+/qt/qml/RestrauntMenu/Zone1.qml
+/qt/qml/RestrauntMenu/Zone2.qml

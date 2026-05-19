@@ -1,0 +1,10 @@
+module modelViewLearnig
+typeinfo appmodelViewLearnig.qmltypes
+prefer :/qt/qml/modelViewLearnig/
+Main 254.0 Main.qml
+LiveLocationModel 254.0 LiveLocationModel.qml
+LiveWeatherModel 254.0 LiveWeatherModel.qml
+OpenMeteo 254.0 OpenMeteo.qml
+Requester 254.0 Requester.qml
+depends QtQuick
+

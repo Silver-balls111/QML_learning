@@ -1,0 +1,5 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/.qt/rcc/qmake_chatApp.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/.qt/rcc/appchatApp_raw_qml_0.qrc
+/qt/qml/chatApp/Main.qml

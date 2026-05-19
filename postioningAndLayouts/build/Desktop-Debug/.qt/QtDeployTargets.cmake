@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apppostioningAndLayouts_FILE /home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/apppostioningAndLayouts)
+set(__QT_DEPLOY_TARGET_apppostioningAndLayouts_TYPE EXECUTABLE)

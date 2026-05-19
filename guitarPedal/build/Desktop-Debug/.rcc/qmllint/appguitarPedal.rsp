@@ -1,0 +1,16 @@
+--bare
+-I
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug
+-I
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/guitarPedal
+-I
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/rcc/qmake_guitarPedal.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/rcc/appguitarPedal_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/rcc/appguitarPedal_raw_res_0.qrc
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/Main.qml

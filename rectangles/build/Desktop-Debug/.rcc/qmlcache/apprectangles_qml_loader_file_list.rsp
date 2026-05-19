@@ -1,0 +1,5 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/rcc/qmake_rectangles.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/rcc/apprectangles_raw_qml_0.qrc
+/qt/qml/rectangles/Main.qml

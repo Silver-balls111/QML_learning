@@ -1,0 +1,8 @@
+module climateControls
+typeinfo appclimateControls.qmltypes
+prefer :/qt/qml/climateControls/
+Main 254.0 Main.qml
+ClimateControl 254.0 ClimateControl.qml
+ZoneControl 254.0 ZoneControl.qml
+depends QtQuick
+

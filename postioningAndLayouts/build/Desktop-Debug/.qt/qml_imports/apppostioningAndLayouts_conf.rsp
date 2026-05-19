@@ -1,0 +1,15 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/qml_imports/apppostioningAndLayouts_conf.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/postioningAndLayouts
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/rcc/qmake_postioningAndLayouts.qrc
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/rcc/apppostioningAndLayouts_raw_qml_0.qrc
+/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/build/Desktop-Debug/.qt/rcc/apppostioningAndLayouts_raw_res_0.qrc

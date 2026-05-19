@@ -1,0 +1,10 @@
+module RestrauntMenu
+typeinfo appRestrauntMenu.qmltypes
+prefer :/qt/qml/RestrauntMenu/
+Main 254.0 Main.qml
+Zone 254.0 Zone.qml
+RestroMenu 254.0 RestroMenu.qml
+Zone1 254.0 Zone1.qml
+Zone2 254.0 Zone2.qml
+depends QtQuick
+

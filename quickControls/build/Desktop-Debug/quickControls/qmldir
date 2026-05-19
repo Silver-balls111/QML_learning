@@ -1,0 +1,6 @@
+module quickControls
+typeinfo appquickControls.qmltypes
+prefer :/qt/qml/quickControls/
+Main 254.0 Main.qml
+depends QtQuick
+

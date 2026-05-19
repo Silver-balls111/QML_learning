@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/rectangles
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/qml_imports/apprectangles_conf.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/rectangles
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/rcc/qmake_rectangles.qrc
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/rcc/apprectangles_raw_qml_0.qrc

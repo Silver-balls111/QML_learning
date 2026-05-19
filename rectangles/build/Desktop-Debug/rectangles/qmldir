@@ -1,0 +1,6 @@
+module rectangles
+typeinfo apprectangles.qmltypes
+prefer :/qt/qml/rectangles/
+Main 254.0 Main.qml
+depends QtQuick
+

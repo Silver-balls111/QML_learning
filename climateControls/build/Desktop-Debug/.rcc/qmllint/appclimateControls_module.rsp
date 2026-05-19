@@ -1,0 +1,16 @@
+-I
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug
+-I
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/climateControls
+-I
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/.qt/rcc/qmake_climateControls.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/.qt/rcc/appclimateControls_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/.qt/rcc/appclimateControls_raw_res_0.qrc
+--module
+climateControls

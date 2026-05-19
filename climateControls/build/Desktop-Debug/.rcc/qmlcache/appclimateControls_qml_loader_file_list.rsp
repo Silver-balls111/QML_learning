@@ -1,0 +1,9 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/.qt/rcc/qmake_climateControls.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/.qt/rcc/appclimateControls_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/.qt/rcc/appclimateControls_raw_res_0.qrc
+/qt/qml/climateControls/Main.qml
+/qt/qml/climateControls/ClimateControl.qml
+/qt/qml/climateControls/ZoneControl.qml

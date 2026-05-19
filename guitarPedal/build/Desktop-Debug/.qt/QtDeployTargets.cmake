@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appguitarPedal_FILE /home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/appguitarPedal)
+set(__QT_DEPLOY_TARGET_appguitarPedal_TYPE EXECUTABLE)

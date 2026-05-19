@@ -1,0 +1,6 @@
+module postioningAndLayouts
+typeinfo apppostioningAndLayouts.qmltypes
+prefer :/qt/qml/postioningAndLayouts/
+Main 254.0 Main.qml
+depends QtQuick
+

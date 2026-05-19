@@ -1,0 +1,5 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/.qt/rcc/qmake_quickControls.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/.qt/rcc/appquickControls_raw_qml_0.qrc
+/qt/qml/quickControls/Main.qml

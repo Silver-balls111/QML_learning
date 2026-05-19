@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/quickControls">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/quickControls/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/chatApp">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/chatApp/qmldir</file>
+  </qresource>
+</RCC>
+

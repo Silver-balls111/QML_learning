@@ -1,0 +1,7 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/.qt/rcc/qmake_soundEquilizer.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/.qt/rcc/appsoundEquilizer_raw_qml_0.qrc
+/qt/qml/soundEquilizer/Main.qml
+/qt/qml/soundEquilizer/LedBar.qml
+/qt/qml/soundEquilizer/Led.qml

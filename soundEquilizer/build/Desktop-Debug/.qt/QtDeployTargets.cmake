@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appsoundEquilizer_FILE /home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/appsoundEquilizer)
+set(__QT_DEPLOY_TARGET_appsoundEquilizer_TYPE EXECUTABLE)

@@ -1,0 +1,6 @@
+module positioners
+typeinfo apppositioners.qmltypes
+prefer :/qt/qml/positioners/
+Main 254.0 Main.qml
+depends QtQuick
+

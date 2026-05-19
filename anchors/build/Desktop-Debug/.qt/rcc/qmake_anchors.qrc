@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/anchors">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug/anchors/qmldir</file>
+  </qresource>
+</RCC>
+

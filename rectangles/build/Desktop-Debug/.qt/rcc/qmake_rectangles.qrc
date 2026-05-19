@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/rectangles">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/rectangles/qmldir</file>
+  </qresource>
+</RCC>
+

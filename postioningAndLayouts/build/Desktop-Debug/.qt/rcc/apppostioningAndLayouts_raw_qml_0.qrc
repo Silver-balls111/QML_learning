@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/postioningAndLayouts/">
+    <file alias="Main.qml">/home/anuj/Documents/Dev/QML_Learning/postioningAndLayouts/Main.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appquickControls_FILE /home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/appquickControls)
+set(__QT_DEPLOY_TARGET_appquickControls_TYPE EXECUTABLE)

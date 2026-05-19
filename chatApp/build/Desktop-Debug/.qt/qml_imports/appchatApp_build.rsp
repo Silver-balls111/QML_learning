@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/chatApp
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/.qt/qml_imports/appchatApp_build.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/chatApp
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/.qt/rcc/qmake_chatApp.qrc
+/home/anuj/Documents/Dev/QML_Learning/chatApp/build/Desktop-Debug/.qt/rcc/appchatApp_raw_qml_0.qrc

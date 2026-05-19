@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/layouts">/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug/layouts</file>
+
+  </qresource>
+</RCC>

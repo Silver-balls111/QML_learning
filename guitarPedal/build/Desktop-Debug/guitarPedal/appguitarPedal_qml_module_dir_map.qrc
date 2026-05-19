@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/guitarPedal">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/guitarPedal</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/.qt/qml_imports/appsoundEquilizer_build.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/soundEquilizer
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/.qt/rcc/qmake_soundEquilizer.qrc
+/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/build/Desktop-Debug/.qt/rcc/appsoundEquilizer_raw_qml_0.qrc

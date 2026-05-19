@@ -1,0 +1,14 @@
+-I
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug
+-I
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/rectangles
+-I
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/rcc/qmake_rectangles.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/rectangles/build/Desktop-Debug/.qt/rcc/apprectangles_raw_qml_0.qrc
+--module
+rectangles

@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="/qt/qml/RestrauntMenu/">
+    <file alias="Main.qml">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/Main.qml</file>
+    <file alias="Zone.qml">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/Zone.qml</file>
+    <file alias="RestroMenu.qml">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/RestroMenu.qml</file>
+    <file alias="Zone1.qml">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/Zone1.qml</file>
+    <file alias="Zone2.qml">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/Zone2.qml</file>
+  </qresource>
+</RCC>
+

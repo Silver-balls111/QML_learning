@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/modelViewLearnig/">
+    <file alias="../Model-View-Delegate/00_InitialProject/qmldir">/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/modelViewLearnig/../Model-View-Delegate/00_InitialProject/qmldir</file>
+  </qresource>
+</RCC>
+

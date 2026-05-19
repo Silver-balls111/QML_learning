@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/quickControls
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/.qt/qml_imports/appquickControls_build.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/quickControls
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/.qt/rcc/qmake_quickControls.qrc
+/home/anuj/Documents/Dev/QML_Learning/quickControls/build/Desktop-Debug/.qt/rcc/appquickControls_raw_qml_0.qrc

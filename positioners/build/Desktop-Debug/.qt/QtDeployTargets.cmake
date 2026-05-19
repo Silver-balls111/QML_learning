@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_apppositioners_FILE /home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/apppositioners)
+set(__QT_DEPLOY_TARGET_apppositioners_TYPE EXECUTABLE)

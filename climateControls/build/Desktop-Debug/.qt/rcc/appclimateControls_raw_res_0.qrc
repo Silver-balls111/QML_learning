@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/qt/qml/climateControls/">
+    <file alias="assets/BrushedMetal.jpg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/BrushedMetal.jpg</file>
+    <file alias="assets/cool.svg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/cool.svg</file>
+    <file alias="assets/fan_fill.svg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/fan_fill.svg</file>
+    <file alias="assets/fan_off.svg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/fan_off.svg</file>
+    <file alias="assets/fan_outline.svg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/fan_outline.svg</file>
+    <file alias="assets/heat.svg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/heat.svg</file>
+    <file alias="assets/Brushed-Metal.jpg">/home/anuj/Documents/Dev/QML_Learning/climateControls/assets/Brushed-Metal.jpg</file>
+  </qresource>
+</RCC>
+

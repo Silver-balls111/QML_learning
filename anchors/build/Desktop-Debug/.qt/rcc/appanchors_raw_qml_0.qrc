@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/anchors/">
+    <file alias="Main.qml">/home/anuj/Documents/Dev/QML_Learning/anchors/Main.qml</file>
+  </qresource>
+</RCC>
+

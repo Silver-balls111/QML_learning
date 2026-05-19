@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/soundEquilizer/">
+    <file alias="Main.qml">/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/Main.qml</file>
+    <file alias="LedBar.qml">/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/LedBar.qml</file>
+    <file alias="Led.qml">/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/Led.qml</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/qt/qml/guitarPedal/">
+    <file alias="assets/Button-Pedal-Checked.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Button-Pedal-Checked.png</file>
+    <file alias="assets/Button-Pedal-Checked@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Button-Pedal-Checked@2x.png</file>
+    <file alias="assets/Button-Pedal.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Button-Pedal.png</file>
+    <file alias="assets/Button-Pedal@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Button-Pedal@2x.png</file>
+    <file alias="assets/Guitar-Pedal-Background.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Guitar-Pedal-Background.png</file>
+    <file alias="assets/Guitar-Pedal-Background@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Guitar-Pedal-Background@2x.png</file>
+    <file alias="assets/Knob-Dial.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Knob-Dial.png</file>
+    <file alias="assets/Knob-Dial@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Knob-Dial@2x.png</file>
+    <file alias="assets/Knob-Markings.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Knob-Markings.png</file>
+    <file alias="assets/Knob-Markings@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Knob-Markings@2x.png</file>
+    <file alias="assets/LED-Checked.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/LED-Checked.png</file>
+    <file alias="assets/LED-Checked@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/LED-Checked@2x.png</file>
+    <file alias="assets/LED.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/LED.png</file>
+    <file alias="assets/LED@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/LED@2x.png</file>
+    <file alias="assets/Screw.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Screw.png</file>
+    <file alias="assets/Screw@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Screw@2x.png</file>
+    <file alias="assets/Switch-Checked.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Switch-Checked.png</file>
+    <file alias="assets/Switch-Checked@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Switch-Checked@2x.png</file>
+    <file alias="assets/Switch.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Switch.png</file>
+    <file alias="assets/Switch@2x.png">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/assets/Switch@2x.png</file>
+    <file alias="fonts/Prisma.ttf">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/fonts/Prisma.ttf</file>
+    <file alias="fonts/RussoOne-Regular.ttf">/home/anuj/Documents/Dev/QML_Learning/guitarPedal/fonts/RussoOne-Regular.ttf</file>
+  </qresource>
+</RCC>
+

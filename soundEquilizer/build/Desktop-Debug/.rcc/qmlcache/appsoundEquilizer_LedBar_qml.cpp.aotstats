@@ -1,0 +1,15 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                    ],
+                    "filePath": "/home/anuj/Documents/Dev/QML_Learning/soundEquilizer/LedBar.qml"
+                }
+            ],
+            "moduleId": "soundEquilizer(appsoundEquilizer)"
+        }
+    ]
+}

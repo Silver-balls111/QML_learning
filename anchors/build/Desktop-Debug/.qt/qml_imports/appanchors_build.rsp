@@ -1,0 +1,15 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/anchors
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug/.qt/qml_imports/appanchors_build.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug/anchors
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug/.qt/rcc/qmake_anchors.qrc
+/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug/.qt/rcc/appanchors_raw_qml_0.qrc
+/home/anuj/Documents/Dev/QML_Learning/anchors/build/Desktop-Debug/.qt/rcc/appanchors_raw_res_0.qrc

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/modelViewLearnig">/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/build/Desktop-Debug/modelViewLearnig</file>
+
+  </qresource>
+</RCC>

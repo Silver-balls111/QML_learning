@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/RestrauntMenu">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/build/Desktop-Debug/RestrauntMenu/qmldir</file>
+  </qresource>
+</RCC>
+

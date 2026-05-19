@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/climateControls">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/climateControls/build/Desktop-Debug/climateControls/qmldir</file>
+  </qresource>
+</RCC>
+

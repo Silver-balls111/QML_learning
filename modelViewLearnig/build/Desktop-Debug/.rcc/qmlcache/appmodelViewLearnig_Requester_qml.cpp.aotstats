@@ -1,0 +1,23 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 2,
+                            "column": 5,
+                            "durationMicroseconds": 0,
+                            "functionName": "sendRequest",
+                            "line": 10,
+                            "message": "Functions without type annotations won't be compiled"
+                        }
+                    ],
+                    "filePath": "/home/anuj/Documents/Dev/QML_Learning/modelViewLearnig/Requester.qml"
+                }
+            ],
+            "moduleId": "modelViewLearnig(appmodelViewLearnig)"
+        }
+    ]
+}

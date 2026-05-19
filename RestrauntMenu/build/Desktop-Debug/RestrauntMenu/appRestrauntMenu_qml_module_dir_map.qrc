@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/RestrauntMenu">/home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/build/Desktop-Debug/RestrauntMenu</file>
+
+  </qresource>
+</RCC>

@@ -1,0 +1,16 @@
+-I
+/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug
+-I
+/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug/layouts
+-I
+/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug
+-I
+/usr/lib/qt6/qml
+--resource
+/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug/.qt/rcc/qmake_layouts.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug/.qt/rcc/applayouts_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/layouts/build/Desktop-Debug/.qt/rcc/applayouts_raw_res_0.qrc
+--module
+layouts

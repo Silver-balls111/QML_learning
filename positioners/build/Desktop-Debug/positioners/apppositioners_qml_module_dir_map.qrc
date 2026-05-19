@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/positioners">/home/anuj/Documents/Dev/QML_Learning/positioners/build/Desktop-Debug/positioners</file>
+
+  </qresource>
+</RCC>

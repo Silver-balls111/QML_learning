@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/qt/qml/climateControls/">
+    <file alias="Main.qml">/home/anuj/Documents/Dev/QML_Learning/climateControls/Main.qml</file>
+    <file alias="ClimateControl.qml">/home/anuj/Documents/Dev/QML_Learning/climateControls/ClimateControl.qml</file>
+    <file alias="ZoneControl.qml">/home/anuj/Documents/Dev/QML_Learning/climateControls/ZoneControl.qml</file>
+  </qresource>
+</RCC>
+

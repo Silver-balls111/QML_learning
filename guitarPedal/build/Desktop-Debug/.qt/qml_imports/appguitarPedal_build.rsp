@@ -1,0 +1,15 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/qml_imports/appguitarPedal_build.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/guitarPedal
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/rcc/qmake_guitarPedal.qrc
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/rcc/appguitarPedal_raw_qml_0.qrc
+/home/anuj/Documents/Dev/QML_Learning/guitarPedal/build/Desktop-Debug/.qt/rcc/appguitarPedal_raw_res_0.qrc

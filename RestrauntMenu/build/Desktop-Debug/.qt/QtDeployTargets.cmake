@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_appRestrauntMenu_FILE /home/anuj/Documents/Dev/QML_Learning/RestrauntMenu/build/Desktop-Debug/appRestrauntMenu)
+set(__QT_DEPLOY_TARGET_appRestrauntMenu_TYPE EXECUTABLE)
