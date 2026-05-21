@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/animation">
+    <file alias="qmldir">/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation/qmldir</file>
+  </qresource>
+</RCC>
+

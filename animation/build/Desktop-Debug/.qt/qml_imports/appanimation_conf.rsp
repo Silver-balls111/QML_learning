@@ -1,0 +1,14 @@
+-rootPath
+/home/anuj/Documents/Dev/QML_Learning/animation
+-cmake-output
+-output-file
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/qml_imports/appanimation_conf.cmake
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug
+-importPath
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qmake_animation.qrc
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/appanimation_raw_qml_0.qrc

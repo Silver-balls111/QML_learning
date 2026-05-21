@@ -1,0 +1,7 @@
+--resource
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qmake_animation.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/appanimation_raw_qml_0.qrc
+/qt/qml/animation/Main1.qml
+/qt/qml/animation/Main2.qml
+/qt/qml/animation/Main.qml
