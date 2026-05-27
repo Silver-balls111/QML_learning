@@ -17,6 +17,9 @@ qt_add_qml_module(appanimation
     QML_FILES
     Main1.qml
     QML_FILES Main2.qml
+    QML_FILES Main3.qml
+    QML_FILES Main4.qml
+    RESOURCES heart.svg
     QML_FILES Main.qml
 )
 

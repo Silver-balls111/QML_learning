@@ -2,6 +2,8 @@
   <qresource prefix="/qt/qml/animation/">
     <file alias="Main1.qml">/home/anuj/Documents/Dev/QML_Learning/animation/Main1.qml</file>
     <file alias="Main2.qml">/home/anuj/Documents/Dev/QML_Learning/animation/Main2.qml</file>
+    <file alias="Main3.qml">/home/anuj/Documents/Dev/QML_Learning/animation/Main3.qml</file>
+    <file alias="Main4.qml">/home/anuj/Documents/Dev/QML_Learning/animation/Main4.qml</file>
     <file alias="Main.qml">/home/anuj/Documents/Dev/QML_Learning/animation/Main.qml</file>
   </qresource>
 </RCC>

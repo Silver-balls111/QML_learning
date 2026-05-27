@@ -6,6 +6,10 @@ set(src_and_dest_list
     "/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation/Main1.qml"
     "/home/anuj/Documents/Dev/QML_Learning/animation/Main2.qml"
     "/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation/Main2.qml"
+    "/home/anuj/Documents/Dev/QML_Learning/animation/Main3.qml"
+    "/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation/Main3.qml"
+    "/home/anuj/Documents/Dev/QML_Learning/animation/Main4.qml"
+    "/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation/Main4.qml"
     "/home/anuj/Documents/Dev/QML_Learning/animation/Main.qml"
     "/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/animation/Main.qml"
 

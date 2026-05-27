@@ -9,11 +9,11 @@
 		"/home/anuj/Documents/Dev/QML_Learning/animation/CMakeLists.txt",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qtcreator/cmake-helper/qtcreator-project.cmake",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qtcreator/cmake-helper/package-manager.cmake",
-		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/CMakeFiles/4.3.2/CMakeSystem.cmake",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/CMakeFiles/4.3.3/CMakeSystem.cmake",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qtcreator/cmake-helper/maintenance_tool_provider.cmake",
 		"/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
 		"/usr/share/cmake/Modules/Platform/Linux-Initialize.cmake",
-		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/CMakeFiles/4.3.2/CMakeCXXCompiler.cmake",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/CMakeFiles/4.3.3/CMakeCXXCompiler.cmake",
 		"/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
 		"/usr/share/cmake/Modules/CMakeGenericSystem.cmake",
 		"/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake",
@@ -1529,6 +1529,7 @@
 		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"/usr/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
 		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
 		"/usr/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/qml_imports/appanimation_conf.cmake"
 	],
@@ -1601,9 +1602,12 @@
 	"MOC_SKIP" : 
 	[
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_qml_0.cpp",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_res_0.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qrc_qmake_animation.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main1_qml.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main2_qml.cpp",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main3_qml.cpp",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main4_qml.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main_qml.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_qmlcache_loader.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/appanimation_qmltyperegistrations.cpp"
@@ -1629,9 +1633,12 @@
 	"UIC_SKIP" : 
 	[
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_qml_0.cpp",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_res_0.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qrc_qmake_animation.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main1_qml.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main2_qml.cpp",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main3_qml.cpp",
+		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main4_qml.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_Main_qml.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.rcc/qmlcache/appanimation_qmlcache_loader.cpp",
 		"/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/appanimation_qmltyperegistrations.cpp"

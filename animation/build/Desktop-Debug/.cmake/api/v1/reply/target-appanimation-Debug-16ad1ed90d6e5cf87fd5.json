@@ -102,13 +102,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 38,
+				"line" : 41,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 34,
+				"line" : 37,
 				"parent" : 0
 			},
 			{
@@ -583,6 +583,30 @@
 				"parent" : 59
 			},
 			{
+				"command" : 35,
+				"file" : 12,
+				"line" : 3694,
+				"parent" : 59
+			},
+			{
+				"command" : 35,
+				"file" : 12,
+				"line" : 3887,
+				"parent" : 59
+			},
+			{
+				"command" : 35,
+				"file" : 12,
+				"line" : 3694,
+				"parent" : 59
+			},
+			{
+				"command" : 35,
+				"file" : 12,
+				"line" : 3887,
+				"parent" : 59
+			},
+			{
 				"command" : 30,
 				"file" : 12,
 				"line" : 3979,
@@ -592,19 +616,43 @@
 				"command" : 29,
 				"file" : 0,
 				"line" : 419,
-				"parent" : 89
+				"parent" : 93
 			},
 			{
 				"command" : 36,
 				"file" : 0,
 				"line" : 2659,
-				"parent" : 90
+				"parent" : 94
 			},
 			{
 				"command" : 35,
 				"file" : 0,
 				"line" : 2199,
-				"parent" : 91
+				"parent" : 95
+			},
+			{
+				"command" : 30,
+				"file" : 12,
+				"line" : 3997,
+				"parent" : 59
+			},
+			{
+				"command" : 29,
+				"file" : 0,
+				"line" : 419,
+				"parent" : 97
+			},
+			{
+				"command" : 36,
+				"file" : 0,
+				"line" : 2659,
+				"parent" : 98
+			},
+			{
+				"command" : 35,
+				"file" : 0,
+				"line" : 2199,
+				"parent" : 99
 			},
 			{
 				"command" : 37,
@@ -616,7 +664,7 @@
 				"command" : 35,
 				"file" : 0,
 				"line" : 2324,
-				"parent" : 93
+				"parent" : 101
 			}
 		]
 	},
@@ -763,7 +811,10 @@
 				7,
 				9,
 				11,
-				12
+				13,
+				15,
+				16,
+				17
 			]
 		}
 	],
@@ -961,16 +1012,20 @@
 				7,
 				9,
 				11,
-				12,
 				13,
 				15,
 				16,
-				27,
-				28,
-				29,
-				30,
-				31,
-				32
+				17,
+				18,
+				20,
+				21,
+				23,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42
 			]
 		},
 		{
@@ -980,30 +1035,36 @@
 				1,
 				5,
 				8,
-				10
+				10,
+				12,
+				14
 			]
 		},
 		{
 			"name" : "Resources",
 			"sourceIndexes" : 
 			[
-				14
+				19,
+				22
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				17,
-				18,
-				19,
-				20,
-				21,
-				22,
-				23,
 				24,
 				25,
-				26
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36
 			]
 		}
 	],
@@ -1075,40 +1136,82 @@
 		},
 		{
 			"backtrace" : 87,
-			"path" : "Main.qml",
+			"path" : "Main3.qml",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 88,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.rcc/qmlcache/appanimation_Main3_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 89,
+			"path" : "Main4.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 90,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.rcc/qmlcache/appanimation_Main4_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 91,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 92,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/.rcc/qmlcache/appanimation_Main_qml.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 92,
+			"backtrace" : 96,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_qml_0.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 94,
+			"backtrace" : 100,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_res_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 102,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/.qt/rcc/qmake_animation.qrc",
 			"sourceGroupIndex" : 0
 		},
 		{
-			"backtrace" : 94,
+			"backtrace" : 102,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/animation/qmldir",
 			"sourceGroupIndex" : 2
 		},
 		{
-			"backtrace" : 94,
+			"backtrace" : 102,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/.qt/rcc/appanimation_raw_qml_0.qrc",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 102,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.qt/rcc/appanimation_raw_res_0.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 102,
+			"path" : "heart.svg",
+			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
@@ -1155,6 +1258,18 @@
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.rcc/qmlcache/appanimation_Main3_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.rcc/qmlcache/appanimation_Main4_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/.rcc/qmlcache/appanimation_Main_qml.cpp.rule",
 			"sourceGroupIndex" : 3
 		},
@@ -1162,6 +1277,12 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Desktop-Debug/.qt/rcc/qrc_appanimation_raw_res_0.cpp.rule",
 			"sourceGroupIndex" : 3
 		},
 		{

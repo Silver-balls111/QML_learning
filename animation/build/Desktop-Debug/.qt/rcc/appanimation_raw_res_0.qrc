@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/animation/">
+    <file alias="heart.svg">/home/anuj/Documents/Dev/QML_Learning/animation/heart.svg</file>
+  </qresource>
+</RCC>
+

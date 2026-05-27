@@ -14,7 +14,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Desktop-Debug/CMakeFiles/4.3.2/CMakeSystem.cmake"
+			"path" : "build/Desktop-Debug/CMakeFiles/4.3.3/CMakeSystem.cmake"
 		},
 		{
 			"isGenerated" : true,
@@ -32,7 +32,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "build/Desktop-Debug/CMakeFiles/4.3.2/CMakeCXXCompiler.cmake"
+			"path" : "build/Desktop-Debug/CMakeFiles/4.3.3/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -6400,6 +6400,10 @@
 		{
 			"isExternal" : true,
 			"path" : "/usr/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/usr/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in"
 		},
 		{
 			"isExternal" : true,

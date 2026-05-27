@@ -3,6 +3,8 @@ typeinfo appanimation.qmltypes
 prefer :/qt/qml/animation/
 Main1 254.0 Main1.qml
 Main2 254.0 Main2.qml
+Main3 254.0 Main3.qml
+Main4 254.0 Main4.qml
 Main 254.0 Main.qml
 depends QtQuick
 

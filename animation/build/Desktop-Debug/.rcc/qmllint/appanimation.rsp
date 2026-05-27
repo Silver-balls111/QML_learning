@@ -11,6 +11,10 @@
 /home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/qmake_animation.qrc
 --resource
 /home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/appanimation_raw_qml_0.qrc
+--resource
+/home/anuj/Documents/Dev/QML_Learning/animation/build/Desktop-Debug/.qt/rcc/appanimation_raw_res_0.qrc
 /home/anuj/Documents/Dev/QML_Learning/animation/Main1.qml
 /home/anuj/Documents/Dev/QML_Learning/animation/Main2.qml
+/home/anuj/Documents/Dev/QML_Learning/animation/Main3.qml
+/home/anuj/Documents/Dev/QML_Learning/animation/Main4.qml
 /home/anuj/Documents/Dev/QML_Learning/animation/Main.qml
